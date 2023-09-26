@@ -1,0 +1,6 @@
+{
+    "ansible.python.interpreterPath": "c:\\Users\\Madiha\\AppData\\Local\\Microsoft\\WindowsApps\\python3.11.exe",
+    "yaml.schemas": {
+        "https://raw.githubusercontent.com/ansible/ansible-lint/main/src/ansiblelint/schemas/execution-environment.json": "file:///c%3A/Users/Madiha/gitdemo/.github/workflows/simple.yml"
+    }
+}
